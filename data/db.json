@@ -209,6 +209,16 @@
       "id": "wm9ewy9ld",
       "status": "completed",
       "isFree": false
+    },
+    {
+      "userId": "rjmur3mga",
+      "serviceId": "1",
+      "date": "2026-03-25",
+      "time": "10:00",
+      "serviceKey": "corte de cabelo masculino",
+      "id": "mfj29rrr8",
+      "status": "pending",
+      "isFree": false
     }
   ],
   "campaignActive": true,
